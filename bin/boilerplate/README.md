@@ -1,4 +1,4 @@
-# Introduction to Curating for Reproducibility
+# FIXME Lesson title
 
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
 
@@ -24,9 +24,9 @@ Look for the tag ![good_first_issue](https://img.shields.io/badge/-good%20first%
 
 Current maintainers of this lesson are 
 
-* Florio Arguillas
-* Thu-Mai Christian
-* Limor Peer
+* FIXME
+* FIXME
+* FIXME
 
 
 ## Authors
@@ -38,4 +38,3 @@ A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 To cite this lesson, please consult with [CITATION](CITATION)
 
 [lesson-example]: https://carpentries.github.io/lesson-example
->>>>>>> gh-pages
